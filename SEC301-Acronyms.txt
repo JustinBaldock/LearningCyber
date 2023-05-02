@@ -1,0 +1,130 @@
+2023-03-31 Justin Baldock 
+Created list of acronyms used in the SEC301 course.
+---
+2FA Two Factor Authentication
+AAA Authentication Authorization Accountability
+ACL Access Control List
+ADHD Active Defence Harbinger Distribution
+AES Advanced Encryption Standard
+ALE Annual Loss Expectancy
+AMSI Anti Malware Scan Interface
+ARO Annual Rate of Occurrence
+ARP Address Resolution Protocol
+ARPA Advanced Research Projects Agency
+ASCII American Standard Code for Information Interchange
+ATP Advanced Threat Protection
+AV Asset Value
+BO Buffer Overflow
+C2 Command and Control
+C3 Caesar Crypto Cipher
+CA Certificate Authority
+CAGR Combined Annual Growth Rate
+CCM Cloud Controls Matrix
+CEO Chief Executive Officer
+CIA Confidentiality Integrity Availablity
+CIO Chief Information Officer
+CPU Central Processing Unit
+CSO Chief Security Officer
+DAC Discretionary Access Control
+DDoS Distributed Denial of Service
+DES Data Encryption Standard
+DHCP Dynamic Host Configuration Protocol
+DMZ Demilitarized Zone
+DNS Domain Name System
+DoS Denial of Service
+ECC Ellipitcal Curve Cryptography
+ECDH Elliptical Curve Diffie-Hellman
+EF Exposure Factor
+ESP Encapsulating Security Payload
+FLOP floating point operation per second
+FTPS File Transport Protocol Secure
+GDPR General Data Protection Regulation
+GFLOP Giga (10^9) floating point operations per second
+GIAC Global Information Assurance Certification
+GISF GIAC Information Security Fundamentals
+GUI Graphical User Interface
+HDD Hard Disk Drive
+HIPAA Health Insurance Portability and Accountability Act (USA)
+HTML Hyper Text Markup Language
+HTTP Hyper Text Transfer Protocol
+HTTPS Hyper Text Transfer Protocol Secure
+ICMP Internet Control Messagae Protocol
+IDS Intrusion Detection System
+IIoT Industrial Internet of Things
+IP Internet Protocol
+IPS Intrusion Prevention System
+IRC Internet Relay Chat
+ISP Internet Service Provider
+IaaS Infrastructure as a Service
+IoT Internet Of Things
+JVM Java Virtual Machine
+LAN Local Area Network
+LDAP Lightweigh Directory Access Protocol
+LDAPS Lightweigh Directory Access Protocol Secure
+LODS Lab On Demand System
+MAC Mandatory Access Control
+MD5 Message Digest Algorithm 5
+MFA Multi Factor Authentication
+MIME Multipurpose Internet Mail Extensions
+NAT Network Addres Translation
+NDA Non-Disclosure Agreement
+NFC Near Field Communication
+NIC Network Inferface Card
+NIST National Institue of Standards and Technology
+NSA National Security Agency (USA)
+NTP Network Time Protocol
+OOB Out of Band
+OPT One Time Pad
+OSI Open System Interconnect
+PAN Personal Area Network
+PAT Port Address Translation
+PCI DSS Payment Card Industry Data Security Standard
+PGP Pretty Good Privacy
+PII Personaly Identifiable Information
+PKI Public Key Infrastructure
+POP3 Post Office Protocol
+POP3S Post Office Protocol Secure
+PPT Policy Procedure Training
+PRNG Pseudo Random Number Generator
+PSK Pre-Shared Key
+RADIUS Remote Authenictaion Dial-In User Service
+RAM Random Access Memory
+RBAC Role-Based Access Control
+RFC Request For Comment
+RSBAC Rule-Set Base Access Control
+S/MIME Secure Multipurpose Internet Mail Extensions
+SCIP Strategic and Competitive Intelligence Professionals
+SCP Secure Copy
+SFTP SSH File Transport Protocol
+SHA Secure Hash Algorithm
+SLE Single Loss Expectancy
+SME Subject Matter Expert
+SMTP Simple Mail Transfer Protocol
+SMTP Simple Mail Transfer Protocol
+SMTPS Simple Mail Transfer Protocol Secure
+SQL Structured Query Language
+SSD Solid State Drive
+SSH Secure Shell
+SSID Service Set Identifier
+SSL Secure Socket Layer
+SSP Secure Simple Pairing
+TACACS Terminal Access Controller Access-Control System
+TCP Transmission Control Protocol
+TCP/IP Transmission Control Protocol / Internet Protocol
+TFLOP Tera (10^12) floating point operations per second
+TLD Top Level Domain
+TLS Transport Layer Security
+TTL Time To Live
+UDP User Datagram Protocol
+URL Uniform Resouce Locator
+VPN Virtual Private Network
+VoIP Voice over IP
+WAF Web Application Firewall
+WAN Wide Area Network
+WEP Wired Equivalent Privacy
+WPA Wifi Protected Access
+WPA2 Wifi Protected Access Ver 2
+WPA3 Wifi Protected Access Ver 3
+WPS Wifi Protected Setup
+WWW World Wide Web
+XOR Exclusive OR

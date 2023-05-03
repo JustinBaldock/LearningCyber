@@ -100,7 +100,6 @@ SHA Secure Hash Algorithm
 SLE Single Loss Expectancy
 SME Subject Matter Expert
 SMTP Simple Mail Transfer Protocol
-SMTP Simple Mail Transfer Protocol
 SMTPS Simple Mail Transfer Protocol Secure
 SQL Structured Query Language
 SSD Solid State Drive
